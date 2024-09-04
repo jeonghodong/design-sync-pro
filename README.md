@@ -1,4 +1,4 @@
-# ATAD Design Sync Pro
+# Design Sync Pro
 
 ## Index
 
