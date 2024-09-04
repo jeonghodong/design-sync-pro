@@ -1,0 +1,16 @@
+{
+  "name": "DesignSyncPro",
+  "id": "1412291879319098759",
+  "api": "1.0.0",
+  "main": "dist/plugin.js",
+  "editorType": ["figma", "figjam"],
+  "ui": "dist/ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://*.s3.ap-northeast-2.amazonaws.com",
+      "https://api.github.com",
+      "https://hooks.slack.com"
+    ]
+  },
+  "documentAccess": "dynamic-page"
+}
