@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Design Sync Pro는 ATAD의 디자인 시스템을 쉽게 동기화 하기 위해 개발한 피그마 플러그인 입니다.
+Design Sync Pro는 디자인 시스템을 쉽게 동기화 하기 위해 개발한 피그마 플러그인 입니다.
 
 동작의 순서는 아래와 같습니다.
 
